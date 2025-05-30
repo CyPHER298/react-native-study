@@ -1,3 +1,4 @@
+
 import { useRef, useState } from "react";
 import { Image, StyleSheet, Text, View } from "react-native";
 import { Button } from "../components/Button/index";
@@ -93,9 +94,11 @@ export default function Index() {
         </Text>
         <Text style={styles.footerText}>Desenvolvido por Henrique</Text>
         <Text style={styles.footerText}>Projeto base da Alura</Text>
+
       </View>
     </View>
   );
+
 }
 const styles = StyleSheet.create({
   container: {
