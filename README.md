@@ -6,8 +6,8 @@ Tem uma tabela organizada com os tópicos estudados até o momento no [Notion](h
 
 Os conteúdos serão atulizados no **Notion** e **Github** com o mesmo conteúdo, assim deixando um ambiente agradável para um iniciante no Github e para um experiente.
 
-[Introdução](#introdução)
-[Getting-Started](#getting-started)
+ - [Introdução](#introdução)
+ - [Getting-Started](#getting-started)
 
 ## Introdução
 
